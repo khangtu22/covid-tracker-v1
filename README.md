@@ -1,5 +1,4 @@
 # covid-tracker-v1
-# covid-tracker-v1
 Preview UI Design:
 https://xd.adobe.com/view/3760ffff-db7e-4347-4e6d-b7d6e97163be-4151/
 

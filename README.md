@@ -22,3 +22,6 @@ In our project we mainly use tools:
 ### Important!
 - In test part. The statistic is changing overtime. So we need to update the instant of object when we run test again.
 - Statistic of Vietnam and World is contain in ".csv" file. If we want to update, update in this file then update again in web interface. Or we can find that ".csv" file on the internet.
+
+### Preview
+![alt text](https://github.com/khangtu22/covid-tracker-v1/blob/master/ImagesProduction/UserView/UserViewVietnam.png)
